@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MEARN**
 
-- 🤝 I’m an Ugraduate at **SLIIT**
+- 🤝 I’m an Undergraduate at **SLIIT**
 
 - 💬 Ask me about **Java**
 
