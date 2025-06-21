@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isuru Jayantha</h1>
 <h3 align="center">A developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m an Undergraduate at **SLIIT**
+- 🤝 I’m an Undergraduate at **SLIIT City Uni**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java & Python**
 
 - 📫 How to reach me **kalindunaveen731@gmail.com**
 
