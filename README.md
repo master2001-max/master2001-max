@@ -5,7 +5,7 @@
 
 - 🤝 I’m an Undergraduate at **SLIIT City Uni**
 
-- 💬 Ask me about **Java & Python**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kalindunaveen731@gmail.com**
 
